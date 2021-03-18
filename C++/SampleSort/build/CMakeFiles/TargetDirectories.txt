@@ -1,0 +1,3 @@
+/home/paramvirsingh/Desktop/Threading/SampleSort/build/CMakeFiles/rebuild_cache.dir
+/home/paramvirsingh/Desktop/Threading/SampleSort/build/CMakeFiles/sample.dir
+/home/paramvirsingh/Desktop/Threading/SampleSort/build/CMakeFiles/edit_cache.dir

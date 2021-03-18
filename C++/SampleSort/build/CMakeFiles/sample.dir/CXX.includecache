@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paramvirsingh/Desktop/Threading/SampleSort/src/main.cpp
+iostream
+-
+algorithm
+-
+cstdlib
+-
+array
+-
+iterator
+-
+vector
+-
+random
+-
+chrono
+-
+omp.h
+/home/paramvirsingh/Desktop/Threading/SampleSort/src/omp.h
+
